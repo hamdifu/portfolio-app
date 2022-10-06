@@ -1,6 +1,6 @@
 # portfolio
 
-### In progress
+## In progress :arrows_counterclockwise:
 
 ## Getting Started
 
