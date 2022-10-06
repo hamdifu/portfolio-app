@@ -43,7 +43,6 @@ class HomePage extends StatelessWidget{
                           color: Color.fromARGB(255, 39, 38, 38),
                           fontSize: 45,
                           fontWeight: FontWeight.bold
-
                         ),
                       ),
                       // ignore: prefer_const_constructors

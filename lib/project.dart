@@ -36,7 +36,7 @@ class ProjectsPage extends StatelessWidget{
                   child: Container(
                     margin: const EdgeInsets.only(top:10,left: 25,right: 25),
                     width: double.maxFinite,
-                    height: 125,
+                    height: 148,
                     
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(30),
@@ -84,7 +84,7 @@ class ProjectsPage extends StatelessWidget{
                   child: Container(
                     margin: const EdgeInsets.only(top:25,left: 25,right: 25),
                     width: double.maxFinite,
-                    height: 150,
+                    height: 166,
                     
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(30),
@@ -132,7 +132,7 @@ class ProjectsPage extends StatelessWidget{
                   child: Container(
                     margin: const EdgeInsets.only(top:25,left: 25,right: 25),
                     width: double.maxFinite,
-                    height: 125,
+                    height: 143,
                     
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(30),
