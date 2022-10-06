@@ -1,16 +1,16 @@
-# portfolio
+# Portfolio App
 
 ## In progress :arrows_counterclockwise:
 
-## Getting Started
+## Screenshots:
+### Home Screen: 
+![Screenshot_1665071774](https://user-images.githubusercontent.com/68185237/194362719-52103a93-ed0a-4a4b-b36f-99fba81e5c5e.png)
 
-This project is a starting point for a Flutter application.
+### Projects Page: 
+![Screenshot_1665071787](https://user-images.githubusercontent.com/68185237/194362757-137e89ca-b3f7-401e-878d-50c9b4b9290a.png)
 
-A few resources to get you started if this is your first Flutter project:
+### App Icon: 
+![Screenshot_1665071796](https://user-images.githubusercontent.com/68185237/194362644-59a5b493-711a-4261-9295-44adf44aa148.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
