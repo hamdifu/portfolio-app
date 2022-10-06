@@ -12,7 +12,9 @@ class HomePage extends StatelessWidget{
   @override
   Widget build(BuildContext context){
     return MaterialApp(
+      theme: ThemeData(fontFamily: 'Poppins'),
       home: SafeArea(
+        
         //to save children from any obstruction from notch and enough padding to avoid status bar
         child: Scaffold(
           body: Container(

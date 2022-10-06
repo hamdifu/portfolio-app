@@ -6,6 +6,7 @@ class ProjectsPage extends StatelessWidget{
    @override
   Widget build(BuildContext context){
     return MaterialApp(
+      theme: ThemeData(fontFamily: 'Poppins'),
       home: SafeArea(
         
         child: Scaffold(
@@ -29,7 +30,7 @@ class ProjectsPage extends StatelessWidget{
               children: [
                 GestureDetector(
                   onTap: () {
-                    final Uri _url = Uri.parse('https://github.com/');
+                    final Uri _url = Uri.parse('https://github.com/hamdifu/LangLearn');
                     _launchUrl(_url);
                   },
                   child: Container(
@@ -77,13 +78,13 @@ class ProjectsPage extends StatelessWidget{
                 ),
                 GestureDetector(
                   onTap: () {
-                    final Uri _url = Uri.parse('https://github.com/');
+                    final Uri _url = Uri.parse('https://github.com/hamdifu/Anshika-blog');
                     _launchUrl(_url);
                   },
                   child: Container(
                     margin: const EdgeInsets.only(top:25,left: 25,right: 25),
                     width: double.maxFinite,
-                    height: 125,
+                    height: 150,
                     
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(30),
@@ -103,7 +104,7 @@ class ProjectsPage extends StatelessWidget{
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const [
                           Text(
-                            'LangLearn',
+                            'Blogging Website',
                             style: TextStyle(
                               fontWeight: FontWeight.bold,
                               fontSize: 25,
@@ -111,7 +112,7 @@ class ProjectsPage extends StatelessWidget{
                             ),
                           ),
                           Text(
-                              'An app that can help one learn the language of their choice',
+                              'A website with fully encrypted authentication system and features to edit,add,delete and comment on blogs.',
                               style: TextStyle(
                               fontSize: 15,
                               color: Colors.white,
